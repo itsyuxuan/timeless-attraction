@@ -5,12 +5,6 @@ declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
   own work, with the following exceptions:
 
-# add as many "name+comment" entries as necessary
-# (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
-
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
@@ -26,5 +20,5 @@ assets:
     licence:
 
 # sign *your* name and uid here
-name:
-uid:
+name: Yuxuan Lin
+uid: u6828533
