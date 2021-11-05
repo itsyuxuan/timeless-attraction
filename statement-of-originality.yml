@@ -1,24 +1,24 @@
-# for information & examples on how to fill this out correctly, see
-# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
-
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
   own work, with the following exceptions:
 
-# add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
+  - comment: Generate a random integer between min (included) and max (included)
+    url: https://gitlab.cecs.anu.edu.au/u6828533/comp1720-2021-assignment-1
+    licence: MIT
 
-# add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external assets)
+  - comment: Hint of generative art
+    url: https://www.youtube.com/watch?v=me04ZrTJqWA
+    licence: fair use
+
 assets:
-  - comment:
-    url:
-    licence:
+  - comment: John Lennon photo
+    url: http://www.johnlennon.com/
+    licence: fair use
 
-# sign *your* name and uid here
+  - comment: Abbey Road photo
+    url: https://www.thebeatles.com/
+    licence: fair use
+
 name: Yuxuan Lin
 uid: u6828533
