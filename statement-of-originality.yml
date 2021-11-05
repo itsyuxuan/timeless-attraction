@@ -7,8 +7,8 @@ code:
     url: https://gitlab.cecs.anu.edu.au/u6828533/comp1720-2021-assignment-1
     licence: MIT
 
-  - comment: Hint of generative art
-    url: https://www.youtube.com/watch?v=me04ZrTJqWA
+  - comment: Button
+    url: https://editor.p5js.org/aferriss/sketches/r1puTms1m
     licence: fair use
 
   - comment: Hint of glitch art
@@ -20,7 +20,7 @@ assets:
     url: http://www.johnlennon.com/
     licence: fair use
 
-  - comment: Abbey Road photo
+  - comment: Album photos
     url: https://www.thebeatles.com/
     licence: fair use
 
