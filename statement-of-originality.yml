@@ -11,6 +11,10 @@ code:
     url: https://www.youtube.com/watch?v=me04ZrTJqWA
     licence: fair use
 
+  - comment: Hint of glitch art
+    url: https://openprocessing.org/sketch/733567
+    licence: Terms of Service - OpenProcessing
+
 assets:
   - comment: John Lennon photo
     url: http://www.johnlennon.com/
@@ -19,6 +23,14 @@ assets:
   - comment: Abbey Road photo
     url: https://www.thebeatles.com/
     licence: fair use
+
+  - comment: Glitch Big Pack 2
+    url: https://1.envato.market/4amdM
+    licence: SFX (Single Use) License
+
+  - comment: Speech recognition 
+    url: https://idmnyu.github.io/p5.js-speech/
+    licence: MIT
 
 name: Yuxuan Lin
 uid: u6828533
